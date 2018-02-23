@@ -31,9 +31,9 @@ test var1;
 test2 var2;
 test3 var3;
 
-var1.preis = 5.5;
-var2.preis2 = 2.6;
-var3.preis3 = 1.9;  //10 BTC in sum and cost price of roundabout a local banking license: (100k$)
+var1.price = 5.5;
+var2.price2 = 2.6;
+var3.price3 = 1.9;  //10 BTC in sum and cost price of roundabout a local banking license: (100k$)
 
 string unit = "BTC";
 
