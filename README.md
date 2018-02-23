@@ -6,5 +6,7 @@ you won't be able to use them the common way but it will upgrade your money basi
 
 it contains BTC groundbase structuring (3 levels of different Money layers)
 
-as you are dealing with money you will also be charged 10$ for it automatically from your bank account. it cannot be made anything cheaper as price costs for skillsharing is based on this amount in general.
+as you are dealing with Internet money you will also be charged 10$ for it automatically from your bank account. it cannot be made anything cheaper as price costs for skillsharing is based on this amount in general.
 respect this fact and have fun playing with this code ;)
+
+automated contract for difference: https://github.com/Cr4shOv3rrid3/payment-channel
