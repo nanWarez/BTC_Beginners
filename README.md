@@ -10,3 +10,4 @@ as you are dealing with Internet money you will also be charged 10$ for it autom
 respect this fact and have fun playing with this code ;)
 
 automated contract for difference: https://github.com/Cr4shOv3rrid3/payment-channel
+based on eye and click processed information regarding this repo!!!
